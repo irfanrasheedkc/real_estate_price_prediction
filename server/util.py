@@ -39,4 +39,3 @@ def load_saved_artifacts():
 if __name__=='__main__':
     load_saved_artifacts()
     print(get_location_names())
-    print(get_estimated_price('1st Phase 3P Nagar' , 1000 , 2 , 2))

@@ -103,8 +103,9 @@ h2{
     margin: 25px 0 10px;
     padding: 10px;
     box-sizing: border-box;
-    font-size: 15px;
-    height: 35px;
+    font-size: 25px;
+    height: 60px;
+    padding: 5px 15px 25px 25px;
     border-radius: 5px;
 }
 
